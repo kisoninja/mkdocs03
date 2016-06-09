@@ -1,7 +1,7 @@
 site_name: A Google Chart Sample
 dev_addr: 0.0.0.0:8080
 site_description: Examples of integrating MkDocs with 3rd Party Libraries.
-site_author: Katz Kawai
+site_author: kisoninja
 site_url: http://kisoninja.github.io/mkdocs03/
 repo_url: https://github.com/kisoninja/mkdocs03/
 extra_javascript: []
